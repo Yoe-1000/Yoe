@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal 01
+
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 ,Canal 02
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,Canal 03
+
+https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
