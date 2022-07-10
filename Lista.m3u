@@ -39,7 +39,16 @@ http://primary.iptv-global.net:1935/NacionTV/ngrp:myStream_all/playlist.m3u8?DVR
 #EXTINF:-1 ,Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/chunklist_w1742284038.m3u8
 
+#EXTINF:-1 ,Dios Te Ve
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Dios Te Ve
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Mana del Cielo
+https://hwlive.streamingmediahosting.com/10671-live/manatvdelcielo/chunklist_w106711manatvdelcielo.m3u8
+
+#EXTINF:-1 ,Nuevo Tiempo TV
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
 
 
