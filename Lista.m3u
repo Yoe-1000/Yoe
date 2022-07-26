@@ -16,7 +16,7 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,Franchs TV
-https://api.new.livestream.com/accounts/29773510/events/9199054/broadcasts/232249563.secure.m3u8
+https://playback2.akamaized.net/streams/29773510_9199054_ba69855478bb97164e9c014f5623cfd1_1/exp=1658889124~acl=%2f*~data=hdntl~hmac=854c8dd16da92191e6c4195200135808b8bff14b7d44c2b6941a721a23913b12/media/29773510_9199054_ba69855478bb97164e9c014f5623cfd1_1@4628000pb.m3u8
 
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
