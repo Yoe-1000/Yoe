@@ -56,3 +56,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_
 
 #EXTINF:-1 ,TGN
 https://stream-31.zeno.fm/rp122w6cqueuv?zs=hFyYaXbbQ4-VfGk00QIRvA
+
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4628000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://playback2.akamaized.net/streams/29773510_9199054_ba69855478bb97164e9c014f5623cfd1_1/exp=1658889124~acl=%2f*~data=hdntl~hmac=854c8dd16da92191e6c4195200135808b8bff14b7d44c2b6941a721a23913b12/media/29773510_9199054_ba69855478bb97164e9c014f5623cfd1_1@4628000pb.m3u8?dw=32&ts=1658800800
