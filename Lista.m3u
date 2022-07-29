@@ -59,3 +59,7 @@ https://5e85d90130e77.streamlock.net:443/6006/6006/playlist.m3u8
 
 #EXTINF:-1 ,Enlace
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
