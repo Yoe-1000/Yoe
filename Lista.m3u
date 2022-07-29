@@ -6,8 +6,11 @@ https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Vida Television
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,Canal XtoTv, tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Xtotv_bolivia.jpg/600px-Xtotv_bolivia.jpg”
+#EXTINF:-1 Canal XtoTv tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Xtotv_bolivia.jpg/600px-Xtotv_bolivia.jpg”
 https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="805" tvg-name="Radio Unido Al Cielo" tvg-logo="https://lh3.googleusercontent.com/-K58P9VOeL1M/YH3I4wI5eDI/AAAAAAABBuk/m1cDE2y7aaks-dqEPEL2BhYUc6HrvwgEwCK8BGAsYHg/s512/2021-04-19.webp", Radio Unido Al Cielo * | CL
+https://streamlov.alsolnet.com/radiounidoalcielo/live/playlist.m3u8
 
 #EXTINF:-1 ,Sublime Gracia 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
