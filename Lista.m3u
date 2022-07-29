@@ -57,12 +57,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_
 #EXTINF:-1 ,Rhema TV 
 https://5e85d90130e77.streamlock.net:443/6006/6006/playlist.m3u8
 
-EXTINF:0 tvg-id=»Rhema TV» tvg-logo=»https://ibb.co/SK7PQMZ» group-title=»Cine»,ButacaTV
-https://5e85d90130e77.streamlock.net:443/6006/6006/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=»https://ibb.co/SK7PQMZL» group-title=»AQUÍ ESCRIBE LA CATEGORIA DE SEÑAL», NOMBRE DE LA SEÑAL
-https://5e85d90130e77.streamlock.net:443/6006/6006/playlist.m3u8
-
 #EXTINF:-1 ,Enlace
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
