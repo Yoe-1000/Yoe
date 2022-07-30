@@ -2,9 +2,8 @@
 
 #EXTINF:-1 ,Canal 01
 https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
-https://www.kscevida.com/wp-content/uploads/2021/03/VIDA-LOGO-Header-WEB.png
 
-#EXTINF:-1 tvg-id="2" tvg-name="Vida Television" tvg-logo="https://i.ibb.co/tbP4Zv1/rhema-tv-9071.jpg", Vida Television * | 
+#EXTINF:-1 tvg-id="2" tvg-name="Vida Television" tvg-logo="https://www.kscevida.com/wp-content/uploads/2021/03/VIDA-LOGO-Header-WEB.png", Vida Television * | 
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="Canal XtoTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Xtotv_bolivia.jpg/600px-Xtotv_bolivia.jpg", Canal XtoTv * | 
