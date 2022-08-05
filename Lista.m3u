@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 ,Canal 01
-https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="2" tvg-name="Vida Television" tvg-logo="https://www.kscevida.com/wp-content/uploads/2021/03/VIDA-LOGO-Header-WEB.png", Vida Television * | 
 https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8
 
@@ -42,7 +39,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w304315901.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="SPIRIT TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cfc242a64fb8e4ccd47c3488e69f2a.webp", SPIRIT * | 
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="NUBHE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", NUBHE  * | 
+#EXTINF:-1 tvg-id="15" tvg-name="NUBHE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", NUBHE TV * | 
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w517198984.m3u8
 
 #EXTINF:-1 ,Enlcace Juvenil
