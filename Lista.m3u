@@ -18,17 +18,20 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="La Fe Mueve Montanas" tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png", La Fe Mueve Montanas * | 
 https://inliveserver.com:1936/10020/10020/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="Franchs TV" tvg-logo="https://img.new.livestream.com/accounts/0000000001c64ec6/cf1a80c1-9138-4c56-9ec8-a1f618615c53_50x50.png", CBN Español * | 
+#EXTINF:-1 tvg-id="7" tvg-name="Franchs TV" tvg-logo="https://img.new.livestream.com/accounts/0000000001c64ec6/cf1a80c1-9138-4c56-9ec8-a1f618615c53_50x50.png", Franchs TV * | 
 https://player-api.new.livestream.com/accounts/29773510/events/9199054/broadcasts/232382696.secure.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="CBN Español" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/cbn.png", Franchs TV * | 
+#EXTINF:-1 tvg-id="8" tvg-name="CBN Español" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/cbn.png",  CBN Español * | 
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="Sin Levadura" tvg-logo="", Sin Levadura * | 
+#EXTINF:-1 tvg-id="9" tvg-name="Sin Levadura" tvg-logo="", Sin Levadura * | 
 https://583ed2f226ac2.streamlock.net/49/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="AVN Tv" tvg-logo="https://avivamiento.com/assets_nw/img/cma/logo_white.png", AVN Tv * | 
+#EXTINF:-1 tvg-id="10" tvg-name="AVN Tv" tvg-logo="https://avivamiento.com/assets_nw/img/cma/logo_white.png", AVN Tv * | 
 https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="Comunion TV" tvg-logo="https://www.comuniontv.com/wordpress/wp-content/uploads/2018/03/logo_ctv2018_big-1.png", Comunion TV * | 
+https://6202d04ff2f0c.streamlock.net/live/stream/playlist.m3u8
 
 
 #EXTINF:-1 ,Enlcace Juvenil
