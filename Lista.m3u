@@ -27,6 +27,10 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-e
 #EXTINF:-1 tvg-id="8" tvg-name="Sin Levadura" tvg-logo="", Sin Levadura * | 
 https://583ed2f226ac2.streamlock.net/49/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="8" tvg-name="AVN Tv" tvg-logo="https://avivamiento.com/assets_nw/img/cma/logo_white.png", AVN Tv * | 
+https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+
+
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
