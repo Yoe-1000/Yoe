@@ -39,10 +39,10 @@ https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/chunklist_w160758
 #EXTINF:-1 tvg-id="13" tvg-name="MOVIE FE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp", MOVIE FE * | 
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w304315901.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="SPIRIT TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cfc242a64fb8e4ccd47c3488e69f2a.webp", SPIRIT * | 
+#EXTINF:-1 tvg-id="14" tvg-name="SPIRIT TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cfc242a64fb8e4ccd47c3488e69f2a.webp", SPIRIT * | 
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="NUBHE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", NUBHE TVSPIRIT * | 
+#EXTINF:-1 tvg-id="15" tvg-name="NUBHE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", NUBHE  * | 
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w517198984.m3u8
 
 #EXTINF:-1 ,Enlcace Juvenil
