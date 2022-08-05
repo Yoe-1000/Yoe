@@ -76,3 +76,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_
 #EXTINF:-1 ,Enlace
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
+#EXTINF:-1 ,RT
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
+
