@@ -42,6 +42,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="NUBHE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", NUBHE TV * | 
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w517198984.m3u8
 
+#EXTINF:-1 tvg-id="15" tvg-name="CANAL 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp", CANAL 27 * | 
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/a940b63794da45e7902fa9c5c1dbd567/chunklist_b4628000.m3u8
+
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
