@@ -33,6 +33,9 @@ https://s3.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/c
 #EXTINF:-1 tvg-id="11" tvg-name="Comunion TV" tvg-logo="https://www.comuniontv.com/wordpress/wp-content/uploads/2018/03/logo_ctv2018_big-1.png", Comunion TV * | 
 https://6202d04ff2f0c.streamlock.net/live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="12" tvg-name="CTNI" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Rjz7-7hSL.png", CTNI * | 
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/chunklist_w1607587787_b1564000_sleng.m3u8
+
 
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
