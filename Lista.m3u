@@ -16,7 +16,7 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8
 https://inliveserver.com:1936/10020/10020/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="Franchs TV" tvg-logo="https://img.new.livestream.com/accounts/0000000001c64ec6/cf1a80c1-9138-4c56-9ec8-a1f618615c53_50x50.png", Franchs TV * | 
-https://player-api.new.livestream.com/accounts/29773510/events/9199054/broadcasts/232477553.secure.m3u8?dw=14400&hdnea=st%3D1660342477~exp%3D1660344277~acl%3D%2Fi%2F29773510_9199054_e6db48fa959adc57fb63ae53bd16b47c_1%40687977%2F%2A~hmac%3D38ee682d82c9c5651c3af23207cef9d0a01af5b3c3c23d98c74368aa61785cdf&token=62f6d1f9_8a1356358e01a5f14db55ab441fe5f8ef9d59f19
+https://player-api.new.livestream.com/accounts/29773510/events/9199054/broadcasts/232627542.secure.m3u8?dw=80&hdnea=st=1661225108~exp=1661226908~acl=/i/29773510_9199054_9bf0e96fcdd778d782c4ca1a08f562e2_1@447204/*~hmac=d2429980e6dd39723bbcfe9c20947fc961a68bdde4dc0db2e3c8b6051635b760&token=630449c0_ef7fc2a971e950c38ce9aa949bc0a12292694601
 
 #EXTINF:-1 tvg-id="8" tvg-name="CBN Español" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/cbn.png",  CBN Español * | 
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8
