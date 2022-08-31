@@ -45,6 +45,12 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w517198984.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CANAL 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/19b1a2b9cf99084c8aa02329621840dd.webp", CANAL 27 * | 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/a940b63794da45e7902fa9c5c1dbd567/chunklist_b4628000.m3u8
 
+#EXTINF:-1 tvg-id="17" tvg-name="CCI Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c83300e43e1bf97a7857e17a89133a1.webp", CCI Channel * | 
+https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45gZ4kHQpcTpjgDnbaDzxAYRzaoxPuBdNDTgsM6qLwu1)/dm/3/x836wjl/s/live-1.m3u8
+
+
+
+
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
