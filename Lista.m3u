@@ -63,6 +63,9 @@ https://radiocret.net:8082/hls/tvcret.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="Televida " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp", Televida  * | 
 https://tls-cl.cdnz.cl/televida/live/chunklist_w1693104183.m3u8
 
+#EXTINF:-1 tvg-id="23" tvg-name="Gracia Tv " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb103ad07a6a03f96a377cfbeaa13002.webp", Gracia Tv   * | 
+https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
