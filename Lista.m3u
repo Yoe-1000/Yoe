@@ -66,6 +66,9 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1693104183.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="Gracia Tv " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb103ad07a6a03f96a377cfbeaa13002.webp", Gracia Tv   * | 
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="24" tvg-name="Reforma TV " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae1a98ceb4fb2a10ae5f17c3fb7ace35.webp", Reforma TV   * |
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w1629823964.m3u8
+
 #EXTINF:-1 ,Enlcace Juvenil
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 
