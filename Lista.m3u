@@ -48,7 +48,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/a940b63794da45e7902fa9c5c1dbd567/c
 #EXTINF:-1 tvg-id="17" tvg-name="CCI Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c83300e43e1bf97a7857e17a89133a1.webp", CCI Channel * | 
 https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45gZ4kHQpcTpjgDnbaDzxAYRzaoxPuBdNDTgsM6qLwu1)/dm/3/x836wjl/s/live-1.m3u8
 
-
+#EXTINF:-1 tvg-id="18" tvg-name="Cielo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9df45c21ce1d67a2800b19969c8c80cc.webp", Cielo TV * | 
+https://62ac3ff10e9f0.streamlock.net:1936/cielotv/cielotv/chunklist_w661917672.m3u8
 
 
 #EXTINF:-1 ,Enlcace Juvenil
